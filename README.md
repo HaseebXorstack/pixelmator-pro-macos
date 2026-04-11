@@ -1,4 +1,4 @@
-# Pixelmator Pro
+# Pixelmator Pro MacOS
 
 Pixelmator Pro is a powerful, beautiful, and easy to use image editor designed exclusively for Mac with a stunning modern interface.
 
