@@ -32,3 +32,4 @@ Pixelmator Pro is a professional-grade image editor with a beautifully designed 
 | **Price (catalog)** | Free |
 
 `image-editing` · `design` · `photo` · `ml`
+ 
